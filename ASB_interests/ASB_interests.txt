@@ -1,1 +1,5 @@
+  I am interested in learning about all of the sub-disciplines of CS more, but I want to learn most about Cybersecurity and Software Engineering. 
 
+  Cybersecurity will probably become one of the most hirable sub-disciplines in the next couple of years because of the rise of AI. It has already been shown that AI is capable of developing at a rate that is objectively faster than humans, but there are many times a lot of security concerns with the code that the AI creates. Because of this, I want to look into Cybersecurity, both because it will help me to get hired and to write code myself that is secure.
+
+  Software Engineering is also very important and interesting to me. AI is definitely changing the role of software engineers, but it probably won't replace them. Most software engineers today are becoming code reviewers, big-picture goals, and even directors of AI agents. It is relatively rare now to sit at a computer and actually type the code for yourself, but it is still important to ensure that AI code is written error-free. It will still be fun, however, to actually program in my free time as well.
